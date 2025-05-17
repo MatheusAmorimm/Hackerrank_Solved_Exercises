@@ -19,4 +19,4 @@ for value in results:
         min_value = value
     cont += 1
 
-print(max_value, min_value)
+print(min_value, max_value)
